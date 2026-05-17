@@ -1,0 +1,42 @@
+Change Component Footprint: Designator=R6 Old Footprint=FP-AC1210-MFG New Footprint=RESC1005X40X25LL05T10
+Change Component Footprint: Designator=R5 Old Footprint=FP-ESR10-MFG New Footprint=RESC1005X40X25NL05T10
+Change Component Footprint: Designator=R7 Old Footprint=FP-RN73R2A-IPC_B New Footprint=FP-CRCW0402-e3-IPC_B
+Change Component Footprint: Designator=R4 Old Footprint=RESC1005X40X25LL05T10 New Footprint=RESC1005X40X25NL05T05
+Change Component Comment : Designator=R6 Old Comment=AC1210FR-0782K5L New Comment=RC0402FR-0782K5L
+Change Component Comment : Designator=R5 Old Comment=ESR10EZPF9532 New Comment=RC0402FR-0795K3L
+Change Component Comment : Designator=R4 Old Comment=RC0402FR-0764K9L New Comment=CRCW040264K9FKED
+Change Component Comment : Designator=R7 Old Comment=RN73R2ATTD2201B10 New Comment=CRCW04022K20FKEDC
+Change Managed Component Library Link : Designator=R4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=A6214154-F019-4243-9ED3-C9ADAD558012 New ItemGUID=70BF02EF-CF13-45D5-9B35-4C782BBBD476 Old RevisionGUID=F5E92A6E-2255-4763-8DFC-BD8842F4E3A1 New RevisionGUID=9A867AE8-93E4-4547-8156-729F39B7F8F4
+Change Managed Component Library Link : Designator=R5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=CDA0D992-C1BF-405C-9386-DC13576E42B0 New ItemGUID=0F9A23EA-DAE0-42DE-A760-03A7A4A03031 Old RevisionGUID=765FD757-A6A4-41FD-9D04-9BEDD0D709A8 New RevisionGUID=252FA451-02EB-4107-B452-8683AC43AB8E
+Change Managed Component Library Link : Designator=R6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=5C1B06F2-CC4D-4B20-853B-A4B9D1EEAD87 New ItemGUID=C9151653-B957-485E-9741-B3A809B82FBC Old RevisionGUID=2B706872-AE40-43BF-AC5D-E19171116D2E New RevisionGUID=72438A8D-2C37-4739-B3F7-358C946C8943
+Change Managed Component Library Link : Designator=R7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=87BFB741-1A93-4D49-BA1D-8F7A3609242E New ItemGUID=60CC169D-F24D-4681-BF82-E66D92E74D35 Old RevisionGUID=8D67D479-29D6-45DE-8634-B36F54798739 New RevisionGUID=8190D748-90BA-4750-97D4-DE5FFDC1C9AA
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\LCBGHBRH" ("\LCBGHBRH")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW040264K9FKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "FP-ESR10-MFG"; UniqueID = "\NSZUXUMN" ("\NSZUXUMN")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402FR-0795K3L"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "FP-AC1210-MFG"; UniqueID = "\ESMJAFKG" ("\ESMJAFKG")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402FR-0782K5L"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "FP-RN73R2A-IPC_B"; UniqueID = "\IFRMILLC" ("\IFRMILLC")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "63mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "2.2kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "CRCW-C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Wraparound"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
